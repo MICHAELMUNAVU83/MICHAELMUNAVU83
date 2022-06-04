@@ -1,4 +1,6 @@
-#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include  Javascript and React . I'm also interested in learning new things like APIs, CI/CD, Docker, React, Ruby and Databases. I'm also a linux enthusiast 😆
+#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include  Javascript and React . I'm also interested in learning new things like APIs, CI/CD, Docker, React, Ruby and Databases. I AM AVAILABLE FOR HIRE
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kimutai01 &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> </p>
 
