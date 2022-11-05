@@ -1,4 +1,4 @@
-#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include  Javascript and React . I'm also interested in learning new things like APIs, CI/CD, Docker, React, Ruby and Databases. I AM AVAILABLE FOR HIRE
+#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include  Javascript and React and Ruby on Rails for backend development . I'm also interested in learning new things like CI/CD and Docker . I AM AVAILABLE FOR HIRE
 
 
 
