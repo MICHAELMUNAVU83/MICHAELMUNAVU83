@@ -1,4 +1,4 @@
-#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include  Javascript and React and Ruby on Rails for backend development . I'm also interested in learning new things like CI/CD and Docker . I AM AVAILABLE FOR HIRE
+#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include  Javascript and React Ruby on Rails , Elixir and Phoenix for my backend development . I'm also interested in learning new things like CI/CD and Docker . 
 
 
 
@@ -32,17 +32,21 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
+
+
+
 
 ### :octocat: My stats
 
 
-<table>
 
 
-  <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MICHAELMUNAVU83&langs_count=10&layout=compact"/></td>
-  </tr>
-</table>
+
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MICHAELMUNAVU83)](https://github.com/MICHAELMUNAVU83/github-readme-stats)
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MICHAELMUNAVU83)](https://github.com/MICHAELMUNAVU83/github-readme-stats)
 
 ### Get in touch
 <p>
