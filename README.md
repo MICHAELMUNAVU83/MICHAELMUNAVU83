@@ -46,7 +46,6 @@
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MICHAELMUNAVU83)](https://github.com/MICHAELMUNAVU83/github-readme-stats)
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MICHAELMUNAVU83)](https://github.com/MICHAELMUNAVU83/github-readme-stats)
 
 ### Get in touch
 <p>
