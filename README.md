@@ -1,4 +1,4 @@
-#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include  Javascript and React Ruby on Rails , Elixir and Phoenix for my backend development . I'm also interested in learning new things like CI/CD and Docker . 
+#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include  Javascript and React  Elixir and Phoenix for my backend development . I'm also interested in learning new things like CI/CD and Docker . 
 
 
 
