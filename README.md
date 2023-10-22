@@ -2,7 +2,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kimutai01 &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kimutai01 &label=Profile%20views&color=0e75b6&style=flat" alt="Michael" /> </p>
 
 
 <a href="https://twitter.com/MunavuMichael">
