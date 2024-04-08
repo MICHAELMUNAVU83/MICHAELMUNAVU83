@@ -1,5 +1,6 @@
-#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include  Javascript and React  Elixir and Phoenix for my backend development . I'm also interested in learning new things like CI/CD and Docker . 
-
+#### Hey 👋 I'm MICHAEL MUNAVU a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies I enjoy working with on a daily  include  Elixir  Phoenix LiveView , React and Javascript. Tailwind is also really good so I use it for styling. Reach out for a coffee chat <a href="https://michaelmunavu.com">
+www.michaelmunavu.com
+</a>
 
 
 
