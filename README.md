@@ -20,7 +20,7 @@ I turn business ideas into powerful web applications and AI systems.
 
 I'm a full-stack developer based in **Kenya**, passionate about building systems that solve real-world problems and create meaningful impact. My sweet spot is the intersection of **scalable web architecture** and **AI integration** — especially with Elixir and Phoenix LiveView.
 
-- 🔭 Currently building **AI Systems** at [Vumbuzi AI](https://www.vumbuzi-ai.com) and 
+- 🔭 Currently building **AI Systems** at [Vumbuzi AI](https://www.vumbuzi-ai.com) and  [Callwisely AI](https://www.callwisely.ai) .
 - 🏆 **16× Hackathon Winner** across 5 countries
 - 🌱 Passionate about open-source, mentorship, and the African tech ecosystem
 - 💬 Ask me about **Elixir, Phoenix LiveView, real-time systems, or AI integrations**
