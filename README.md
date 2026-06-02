@@ -2,7 +2,7 @@
 
 # Hi, I'm Michael Munavu 👋
 
-**Senior Software Engineer · Elixir Specialist · AI Systems Builder · Team Builder **
+**Senior Software Engineer · Elixir Specialist · AI Systems Builder · Team Builder**
 
 I turn business ideas into powerful web applications and AI systems.
 5+ years of experience. 16× hackathon winner across 5 countries.
@@ -64,9 +64,9 @@ I'm a full-stack developer based in **Kenya**, passionate about building systems
 
 | Project | Description | Stack |
 |---|---|---|
-| [Ticketing Systems]| High Scale Ticketing Systems to handle over 15 k + Attendees | Elixir · Phoenix · AI |
 | [Nexuscale AI](https://www.nexuscale.ai) | AI-powered email campaign platform | Elixir · Phoenix · AI |
 | [Callwisely AI](https://www.callwisely.ai) | AI-powered customer care agents | Elixir · Phoenix · AI |
+| [Ecommerce Systems](https://www.kulolascloset.com) | Ecommerce systems to drive sales | Elixir · Phoenix · AI |
 | More on my [portfolio →](https://michaelmunavu.com) | | |
 
 ---
