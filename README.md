@@ -2,7 +2,7 @@
 
 # Hi, I'm Michael Munavu 👋
 
-**Senior Software Engineer · Elixir Specialist · AI Systems Builder · Team Builder**
+**Senior Software Engineer · Elixir Specialist · AI Systems Builder · AI Agents Builder**
 
 I turn business ideas into powerful web applications and AI systems.
 5+ years of experience. 16× hackathon winner across 5 countries.
