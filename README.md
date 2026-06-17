@@ -29,6 +29,14 @@ I'm a full-stack developer , passionate about building systems that solve real-w
 
 ---
 
+<div align="center">
+
+### ⏱ WakaTime Stats
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=MICHAELMUNAVU83&theme=dark&SHOW_LOC_CHART=True)](https://wakatime.com/@MICHAELMUNAVU83)
+
+</div>
+
 ## 🛠 Tech Stack
 
 **Core Languages & Frameworks**
