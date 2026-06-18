@@ -29,13 +29,10 @@ I'm a full-stack developer , passionate about building systems that solve real-w
 
 ---
 
-<div align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MICHAELMUNAVU83)](https://github.com/MICHAELMUNAVU83/github-readme-stats)
 
-### ⏱ WakaTime Stats
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=MICHAELMUNAVU83&theme=dark&SHOW_LOC_CHART=True)](https://wakatime.com/@MICHAELMUNAVU83)
-
-</div>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MICHAELMUNAVU83)](https://github.com/MICHAELMUNAVU83/github-readme-stats)
 
 ## 🛠 Tech Stack
 
