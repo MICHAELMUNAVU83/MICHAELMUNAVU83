@@ -72,6 +72,7 @@ I'm a full-stack developer , passionate about building systems that solve real-w
 |---|---|---|
 | [Nexuscale AI](https://www.nexuscale.ai) | AI-powered email campaign platform | Elixir · Phoenix · AI |
 | [Callwisely AI](https://www.callwisely.ai) | AI-powered customer care agents | Elixir · Phoenix · AI |
+| [Gym Bro](https://www.gymbro.live) | AI Powered Gym Assistant Tool | Elixir · Phoenix · AI |
 | [Ecommerce Systems](https://www.kulolascloset.com) | Ecommerce systems to drive sales | Elixir · Phoenix · AI |
 | More on my [portfolio →](https://michaelmunavu.com) | | |
 
