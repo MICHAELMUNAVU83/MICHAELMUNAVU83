@@ -29,12 +29,6 @@ I'm a full-stack developer , passionate about building systems that solve real-w
 
 ---
 
-## Wakatime Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MICHAELMUNAVU83)](https://github.com/MICHAELMUNAVU83/github-readme-stats)
-
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MICHAELMUNAVU83)](https://github.com/MICHAELMUNAVU83/github-readme-stats)
 
 ## 🛠 Tech Stack
 
