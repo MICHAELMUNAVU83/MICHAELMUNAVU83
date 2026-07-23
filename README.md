@@ -21,7 +21,7 @@ I turn business ideas into powerful web applications and AI systems.
 
 I'm a full-stack developer , passionate about building systems that solve real-world problems and create meaningful impact. My sweet spot is the intersection of **scalable web architecture** and **AI integration** — especially with Elixir and Phoenix LiveView.
 
-- 🔭 Currently working with **The Best Elixir and AI Engineers ** at [Dockyard] (https://www.dockyard.com) .
+- 🔭 Currently working with **The Best Elixir and AI Engineers** at [Dockyard](https://www.dockyard.com) .
 - 🏆 **16× Hackathon Winner** across 5 countries
 - 🌱 Passionate about open-source, mentorship, and the African tech ecosystem
 - 💬 Ask me about **Elixir, Phoenix LiveView, real-time systems, or AI integrations**
